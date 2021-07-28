@@ -5,3 +5,5 @@
 - The Zen of python
 - Variables and strings
 - List in python
+- Tuples
+- Exercises
